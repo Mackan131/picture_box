@@ -1,0 +1,10 @@
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\bin\Debug\fooons.exe.config
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\bin\Debug\fooons.exe
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\bin\Debug\fooons.pdb
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\obj\Debug\fooons.csprojAssemblyReference.cache
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\obj\Debug\fooons.Form1.resources
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\obj\Debug\fooons.Properties.Resources.resources
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\obj\Debug\fooons.csproj.GenerateResource.cache
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\obj\Debug\fooons.csproj.CoreCompileInputs.cache
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\obj\Debug\fooons.exe
+C:\Users\max.dahlkvist\source\repos\fooons\fooons\obj\Debug\fooons.pdb
